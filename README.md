@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trezpie
+- 👋 Hi, I’m Anitta.
 - 👀 I’m interested in programming and debugging.
 - 🌱 I’m currently learning how to improvise my tiny skill set.
 <!---- 💞️ I’m looking to collaborate on ...

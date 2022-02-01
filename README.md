@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Anitta.
+<h1 align="center"> Hi 👋 , I’m Anitta </h1>
+<h3 align="center">I'm a student!</h3>
+
 - 👀 I’m interested in programming and debugging.
 - 🌱 I’m currently learning how to improvise my tiny skill set.
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+<!---- 💞️ I’m looking to collaborate on ... (I'll decide later)
+- 📫 How to reach me ... that's for later too! --->
 
-<!---
-trezpie/trezpie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trezpie&hide=issues,contribs" alt="anitta" /></p>
